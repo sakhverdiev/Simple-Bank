@@ -1,0 +1,14 @@
+C:\Users\Senan\source\repos\BankApp\bin\Debug\net6.0\BankApp.exe
+C:\Users\Senan\source\repos\BankApp\bin\Debug\net6.0\BankApp.deps.json
+C:\Users\Senan\source\repos\BankApp\bin\Debug\net6.0\BankApp.runtimeconfig.json
+C:\Users\Senan\source\repos\BankApp\bin\Debug\net6.0\BankApp.dll
+C:\Users\Senan\source\repos\BankApp\bin\Debug\net6.0\BankApp.pdb
+C:\Users\Senan\source\repos\BankApp\obj\Debug\net6.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senan\source\repos\BankApp\obj\Debug\net6.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\Senan\source\repos\BankApp\obj\Debug\net6.0\BankApp.AssemblyInfo.cs
+C:\Users\Senan\source\repos\BankApp\obj\Debug\net6.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\BankApp\obj\Debug\net6.0\BankApp.dll
+C:\Users\Senan\source\repos\BankApp\obj\Debug\net6.0\refint\BankApp.dll
+C:\Users\Senan\source\repos\BankApp\obj\Debug\net6.0\BankApp.pdb
+C:\Users\Senan\source\repos\BankApp\obj\Debug\net6.0\BankApp.genruntimeconfig.cache
+C:\Users\Senan\source\repos\BankApp\obj\Debug\net6.0\ref\BankApp.dll
